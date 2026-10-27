@@ -1,0 +1,15 @@
+{
+  "kind": "arcgis-nova-deployable-app",
+  "version": "0.1",
+  "generatedAt": "2026-10-27T01:57:34.078Z",
+  "title": "West Virginia Controlled Substance Monitoring Program Data Dashboard",
+  "authMode": "public",
+  "entry": "index.html",
+  "sourceAppPath": "outputs/apps/2026-10-26T02-09-51-cf445e5c-f476-4212-b899-3e3af7232126/index.html",
+  "files": {
+    "app": "app.json",
+    "map": "map.json",
+    "runtime": "app.js",
+    "auth": "standalone-auth.js"
+  }
+}
